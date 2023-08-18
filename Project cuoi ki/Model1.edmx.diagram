@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="f87b11cb5f07478182a3c71525bc3879" Name="Diagram1">
+        <EntityTypeShape EntityType="QuanlybanthucannhanhModel.BAN" Width="1.5" PointX="0.75" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanlybanthucannhanhModel.chitiethoadon" Width="1.5" PointX="3" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanlybanthucannhanhModel.HOADON" Width="1.5" PointX="6" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanlybanthucannhanhModel.KHACHHANG" Width="1.5" PointX="5.75" PointY="7.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanlybanthucannhanhModel.KHUYENMAI" Width="1.5" PointX="3.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanlybanthucannhanhModel.LOAIMONAN" Width="1.5" PointX="1.5" PointY="14.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanlybanthucannhanhModel.LOAINHANVIEN" Width="1.5" PointX="1.5" PointY="8.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanlybanthucannhanhModel.MONAN" Width="1.5" PointX="0.75" PointY="11.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanlybanthucannhanhModel.NHANVIEN" Width="1.5" PointX="3.75" PointY="8.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanlybanthucannhanhModel.sysdiagram" Width="1.5" PointX="7.75" PointY="7.625" IsExpanded="true" />
+        <AssociationConnector Association="QuanlybanthucannhanhModel.FK__chitiethoa__MABN__52593CB8" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanlybanthucannhanhModel.FK__HOADON__MABN__4CA06362" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanlybanthucannhanhModel.FK__chitiethoa__MAHD__5165187F" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanlybanthucannhanhModel.FK__chitiethoa__MAMA__5070F446" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanlybanthucannhanhModel.FK__HOADON__MAKM__4BAC3F29" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanlybanthucannhanhModel.FK__HOADON__MANV__4D94879B" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanlybanthucannhanhModel.FK__MONAN__MALMA__2B3F6F97" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanlybanthucannhanhModel.FK__NHANVIEN__MALNV__267ABA7A" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
